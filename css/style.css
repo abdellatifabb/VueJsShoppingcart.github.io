@@ -20,5 +20,5 @@
 #products .item img { background-color: #000; }
 #products .item p.lead { margin-bottom: 0; }
 #products .item .number-in-stock { margin-right: 10px; }
-#products .item .number-in-stock.few { color: #E0A14F; }
-#products .item .number-in-stock.none { color: #C45E5E; }
+#products .item .number-in-stock.few { color: #DD7D00; }
+#products .item .number-in-stock.none { color: #FE0202; }
